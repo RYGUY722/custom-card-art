@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd">
+    <sets>
+        <set>
+            <name>U6KL</name>
+            <longname>UnBalanced</longname>
+            <settype>Custom</settype>
+            <releasedate>2025-12-03</releasedate>
+			<priority>50</priority>
+        </set>
+    </sets>
+	<cards>
+		<card>
+		  <name>Pegasus, Artist of Monsters</name>
+		  <text>When Pegasus enters or attacks, create a token copy of a target creature an opponent controls, except it is an Illusion in addition to its other types. It has base power and toughness 2/2, and it gains "This creature can't be blocked except by Illusions."
+Whenever one or more Illusion creatures deal combat damage to a player, draw a card, then fateseal X, where X is the number of Illusion creatures that dealt damage to that player. (To fateseal X, look at the top X cards of an opponent's library, then put any number of them on the bottom of that player's library and the rest on top in any order.)</text>
+		  <prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Human Warlock</type>
+			<maintype>Creature</maintype>
+			<manacost>2UBR</manacost>
+			<cmc>5</cmc>
+			<colors>UBR</colors>
+			<coloridentity>UBR</coloridentity>
+			<pt>2/5</pt>
+			<format-commander>legal</format-commander>
+		  </prop>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/peg.png">U6KL</set>
+		  <related>Illusion Token</related>
+		  <tablerow>2</tablerow>
+		</card>
+		<card>
+		  <name>Jeanne d'Arc Alter</name>
+		  <text>Vigilance, Menace
+Dragons you control have Lifelink
+{T}: Jenne d'Arc Alter deals X damage to any target where X is the number of Dragons you control. You may look at the top X cards of your library and reveal a Dragon card from among them. Exile it. You may cast the exiled card by paying life equal to its mana value rather than pay its mana cost. Put the rest on the bottom of your library in a random order.</text>
+		  <prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Dragon Witch</type>
+			<maintype>Creature</maintype>
+			<manacost>2BR</manacost>
+			<cmc>4</cmc>
+			<colors>BR</colors>
+			<coloridentity>BR</coloridentity>
+			<pt>2/2</pt>
+			<format-commander>legal</format-commander>
+		  </prop>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/jal.webp">U6KL</set>
+		  <tablerow>2</tablerow>
+		</card>
+		<card>
+		  <name>Elysia, Herrscher of Human: Ego</name>
+		  <text>Defender, Indestructible
+Whenever you cast a spell, each opponent may draw a card. For each opponent who does, create a Treasure token and put an Ego counter on Elysia, Herrscher of Human: Ego.
+At the beginning of each opponent's end step, that player may draw a card. If they do, you and that player create a Treasure token and put an Ego counter on Elysia, Herrscher of Human: Ego.
+Remove thirteen Ego counters from Elysia, Herrscher of Human: Ego: Each player may shuffle his or her hand into their library and draw seven cards.</text>
+		  <prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Human Avatar</type>
+			<maintype>Creature</maintype>
+			<manacost>1WURG</manacost>
+			<cmc>5</cmc>
+			<colors>WURG</colors>
+			<coloridentity>WURG</coloridentity>
+			<pt>0/13</pt>
+			<format-commander>legal</format-commander>
+		  </prop>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/ely.webp">U6KL</set>
+		  <related>Treasure Token</related>
+		  <tablerow>2</tablerow>
+		</card>
+		<card>
+		  <name>Frieren, The Last Great Mage</name>
+		  <text>Vigilance
+At the start of your end phase, Frieren explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back on top or into your graveyard.)
+If you have full party, target Cleric, Rogue, Warrior, and Wizard each explore instead.
+{T}: The next instant or sorcery spell you cast this turn costs X less to cast where X is Frieren's power.</text>
+		  <prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Elf Wizard</type>
+			<maintype>Creature</maintype>
+			<manacost>2WUG</manacost>
+			<cmc>5</cmc>
+			<colors>WUG</colors>
+			<coloridentity>WUG</coloridentity>
+			<pt>1/3</pt>
+			<format-commander>legal</format-commander>
+		  </prop>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/fri.webp">U6KL</set>
+		  <tablerow>2</tablerow>
+		</card>
+		<card>
+		  <name>Gore Magala, Dark Eclipse</name>
+		  <text>Flying
+When Gore Magala enters the battlefield or deals combat damage, create an aura enchantment token named Frenzy Virus attached to a target creature other than Gore Magala or Shagaru Magala.
+When Gore Magala enters the battlefield or attacks, if there are five or more Frenzy Virus tokens, transform Gore Magala.</text>
+		  <prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Dragon</type>
+			<maintype>Creature</maintype>
+			<manacost>2BB</manacost>
+			<cmc>4</cmc>
+			<colors>B</colors>
+			<coloridentity>B</coloridentity>
+			<pt>3/3</pt>
+			<format-commander>legal</format-commander>
+		  </prop>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/gor.webp">U6KL</set>
+		  <tablerow>2</tablerow>
+		</card>
+		<card>
+		  <name>Makima, Executive Control</name>
+		  <text>Ward—Sacrifice a creature
+{T}: Put a contract counter on any creature.
+When a creature with a contract counter dies, its controller draws a card. Then, create a token copy of it under your control.</text>
+		  <prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Elder Devil</type>
+			<maintype>Creature</maintype>
+			<manacost>2WUB</manacost>
+			<cmc>5</cmc>
+			<colors>WUB</colors>
+			<coloridentity>WUB</coloridentity>
+			<pt>3/4</pt>
+			<format-commander>legal</format-commander>
+		  </prop>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/mak.webp">U6KL</set>
+		  <tablerow>2</tablerow>
+		</card>
+		<card>
+		  <name>Shagaru Magala, Bright Eclipse</name>
+		  <text>Flying
+When Shagaru Magala deals combat damage, create up to two aura enchantment token named Frenzy Virus attached to two target creatures other than Gore Magala or Shagaru Magala.
+Shagaru Magala gets +1/+0 for each Frenzy Virus token on the battlefield.</text>
+		  <prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Elder Dragon</type>
+			<maintype>Creature</maintype>
+			<pt>3/5</pt>
+			<format-commander>legal</format-commander>
+		  </prop>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/sha.webp">U6KL</set>
+		  <tablerow>2</tablerow>
+		  <reverse-related attach="transform">Gore Magala, Dark Eclipse</reverse-related>
+		  <related attach="transform">Gore Magala, Dark Eclipse</related>
+		</card>
+		
+		
+		
+		<card>
+		  <name>Frenzy Virus</name>
+		  <text>Enchant creature
+Enchanted creature has +1/+0 and must attack each combat if able.
+When enchanted creature deals combat damage, create a copy of this token attached to target creature an opponent controls.</text>
+		  <prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Token Enchantment — Aura</type>
+			<maintype>Enchantment</maintype>
+			<cmc>0</cmc>
+			<format-commander>legal</format-commander>
+		  </prop>
+		  <set picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/fre.webp">U6KL</set>
+		  <reverse-related>Gore Magala, Dark Eclipse</reverse-related>
+		  <reverse-related>Shagaru Magala, Bright Eclipse</reverse-related>
+		  <tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
