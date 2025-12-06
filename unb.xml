@@ -47,7 +47,7 @@ Dragons you control have Lifelink
 			<pt>2/2</pt>
 			<format-commander>legal</format-commander>
 		  </prop>
-		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/jal.webp">U6KL</set>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/jal.png">U6KL</set>
 		  <tablerow>2</tablerow>
 		</card>
 		<card>
@@ -68,7 +68,7 @@ Remove thirteen Ego counters from Elysia, Herrscher of Human: Ego: Each player m
 			<pt>0/13</pt>
 			<format-commander>legal</format-commander>
 		  </prop>
-		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/ely.webp">U6KL</set>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/ely.png">U6KL</set>
 		  <related>Treasure Token</related>
 		  <tablerow>2</tablerow>
 		</card>
@@ -90,7 +90,7 @@ If you have full party, target Cleric, Rogue, Warrior, and Wizard each explore i
 			<pt>1/3</pt>
 			<format-commander>legal</format-commander>
 		  </prop>
-		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/fri.webp">U6KL</set>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/fri.png">U6KL</set>
 		  <tablerow>2</tablerow>
 		</card>
 		<card>
@@ -110,7 +110,7 @@ When Gore Magala enters the battlefield or attacks, if there are five or more Fr
 			<pt>3/3</pt>
 			<format-commander>legal</format-commander>
 		  </prop>
-		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/gor.webp">U6KL</set>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/gor.png">U6KL</set>
 		  <tablerow>2</tablerow>
 		</card>
 		<card>
@@ -130,7 +130,7 @@ When a creature with a contract counter dies, its controller draws a card. Then,
 			<pt>3/4</pt>
 			<format-commander>legal</format-commander>
 		  </prop>
-		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/mak.webp">U6KL</set>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/mak.png">U6KL</set>
 		  <tablerow>2</tablerow>
 		</card>
 		<card>
@@ -146,7 +146,7 @@ Shagaru Magala gets +1/+0 for each Frenzy Virus token on the battlefield.</text>
 			<pt>3/5</pt>
 			<format-commander>legal</format-commander>
 		  </prop>
-		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/sha.webp">U6KL</set>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/sha.png">U6KL</set>
 		  <tablerow>2</tablerow>
 		  <reverse-related attach="transform">Gore Magala, Dark Eclipse</reverse-related>
 		  <related attach="transform">Gore Magala, Dark Eclipse</related>
@@ -167,7 +167,7 @@ Shagaru Magala gets +1/+0 for each Frenzy Virus token on the battlefield.</text>
 			<pt>4/4</pt>
 			<format-commander>legal</format-commander>
 		  </prop>
-		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/war.webp">U6KL</set>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/war.png">U6KL</set>
 		  <tablerow>2</tablerow>
 		</card>
 		<card>
@@ -187,7 +187,7 @@ Whenever you pay life, create X blood tokens, where X is the amount of life you 
 			<pt>4/4</pt>
 			<format-commander>legal</format-commander>
 		  </prop>
-		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/cru.webp">U6KL</set>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/cru.png">U6KL</set>
 		  <related count="X">Blood Token</related>
 		  <tablerow>2</tablerow>
 		</card>
@@ -207,7 +207,7 @@ When enchanted creature deals combat damage, create a copy of this token attache
 			<cmc>0</cmc>
 			<format-commander>legal</format-commander>
 		  </prop>
-		  <set picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/tok_fre.webp">U6KL</set>
+		  <set picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/tok_fre.png">U6KL</set>
 		  <reverse-related>Gore Magala, Dark Eclipse</reverse-related>
 		  <reverse-related>Shagaru Magala, Bright Eclipse</reverse-related>
 		  <tablerow>1</tablerow>
@@ -224,7 +224,7 @@ Equip {2}</text>
 			<cmc>0</cmc>
 			<format-commander>legal</format-commander>
 		  </prop>
-		  <set picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/tok_wra.webp">U6KL</set>
+		  <set picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/tok_wra.png">U6KL</set>
 		  <reverse-related>The Warden</reverse-related>
 		  <tablerow>1</tablerow>
 		</card>
