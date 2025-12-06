@@ -96,8 +96,8 @@ If you have full party, target Cleric, Rogue, Warrior, and Wizard each explore i
 		<card>
 		  <name>Gore Magala, Dark Eclipse</name>
 		  <text>Flying
-When Gore Magala enters the battlefield or deals combat damage, create an aura enchantment token named Frenzy Virus attached to a target creature other than Gore Magala or Shagaru Magala.
-When Gore Magala enters the battlefield or attacks, if there are five or more Frenzy Virus tokens, transform Gore Magala.</text>
+When Gore Magala enters the battlefield or deals combat damage, create up to one aura enchantment token named Frenzy Virus attached to a target creature other than Gore Magala or Shagaru Magala.
+When Gore Magala enters the battlefield or attacks, if you control five or more Frenzy Virus tokens, transform Gore Magala.</text>
 		  <prop>
 			<layout>normal</layout>
 			<side>front</side>
@@ -136,8 +136,8 @@ When a creature with a contract counter dies, its controller draws a card. Then,
 		<card>
 		  <name>Shagaru Magala, Bright Eclipse</name>
 		  <text>Flying
-When Shagaru Magala deals combat damage, create up to two aura enchantment token named Frenzy Virus attached to two target creatures other than Gore Magala or Shagaru Magala.
-Shagaru Magala gets +1/+0 for each Frenzy Virus token on the battlefield.</text>
+When Shagaru Magala deals combat damage, create up to two aura enchantment token named Frenzy Virus attached to two different target creatures other than Gore Magala or Shagaru Magala.
+Shagaru Magala gets +1/+0 for each Frenzy Virus token you control.</text>
 		  <prop>
 			<layout>normal</layout>
 			<side>front</side>
