@@ -151,6 +151,46 @@ Shagaru Magala gets +1/+0 for each Frenzy Virus token on the battlefield.</text>
 		  <reverse-related attach="transform">Gore Magala, Dark Eclipse</reverse-related>
 		  <related attach="transform">Gore Magala, Dark Eclipse</related>
 		</card>
+		<card>
+		  <name>The Warden</name>
+		  <text>Equipment you control has Shackle X, where X is equal to its equip cost. (Attach to target creature an opponent controls. Shackle only as a sorcery.)
+{2},{T}: Create a colorless Equipment Artifact token named Wrath with "Equipped creature has persist and is goaded" and equip {2}.</text>
+		  <prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Zombie Knight</type>
+			<maintype>Creature</maintype>
+			<manacost>2WBG</manacost>
+			<cmc>5</cmc>
+			<colors>WBG</colors>
+			<coloridentity>WBG</coloridentity>
+			<pt>4/4</pt>
+			<format-commander>legal</format-commander>
+		  </prop>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/war.webp">U6KL</set>
+		  <tablerow>2</tablerow>
+		</card>
+		<card>
+		  <name>Cruz Silva, Queen of the Lost</name>
+		  <text>Lifelink
+Whenever you pay life, create X blood tokens, where X is the amount of life you paid.
+{2}{U},{T}: Blood tokens you control become 2/1 vampire horror creatures with lifelink in addition to their other types. Sacrifice all blood tokens you control at the beginning of the next end step.</text>
+		  <prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Vampire Horror</type>
+			<maintype>Creature</maintype>
+			<manacost>2WBR</manacost>
+			<cmc>5</cmc>
+			<colors>WBR</colors>
+			<coloridentity>WBR</coloridentity>
+			<pt>4/4</pt>
+			<format-commander>legal</format-commander>
+		  </prop>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/cru.webp">U6KL</set>
+		  <related count="X">Blood Token</related>
+		  <tablerow>2</tablerow>
+		</card>
 		
 		
 		
@@ -167,9 +207,25 @@ When enchanted creature deals combat damage, create a copy of this token attache
 			<cmc>0</cmc>
 			<format-commander>legal</format-commander>
 		  </prop>
-		  <set picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/fre.webp">U6KL</set>
+		  <set picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/tok_fre.webp">U6KL</set>
 		  <reverse-related>Gore Magala, Dark Eclipse</reverse-related>
 		  <reverse-related>Shagaru Magala, Bright Eclipse</reverse-related>
+		  <tablerow>1</tablerow>
+		</card>
+		<card>
+		  <name>Wrath</name>
+		  <text>Equipped creature has persist and is goaded.
+Equip {2}</text>
+		  <prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Token Artifact — Equipment</type>
+			<maintype>Artifact</maintype>
+			<cmc>0</cmc>
+			<format-commander>legal</format-commander>
+		  </prop>
+		  <set picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/tok_wra.webp">U6KL</set>
+		  <reverse-related>The Warden</reverse-related>
 		  <tablerow>1</tablerow>
 		</card>
 	</cards>
