@@ -191,6 +191,95 @@ Whenever you pay life, create X blood tokens, where X is the amount of life you 
 		  <related count="X">Blood Token</related>
 		  <tablerow>2</tablerow>
 		</card>
+		<card>
+		  <name>Rex, Journeying to Elysium</name>
+		  <text>Partner with Pyra, Flaming Aegis
+LEVEL 1
+3/2
+{2},{T}: Return target artifact card from your graveyard to your hand.
+LEVEL 2-3
+4/3
+When this creature attacks, you may target one equipment artifact defending player controls. Pay X, where X is equal to its mana value: Create a token copy of that artifact and attach it to Rex.
+LEVEL 4+
+5/4
+Gain an emblem that has "At the beginning of your end step, if you both own and control a creature named Rex, Journeying to Elysium and a creature named Pyra, Flaming Aegis or Mythra, Aegis Unbound, exile them, then meld them into Rex and Pneuma, Embodiment of Elysium."</text>
+		  <prop>
+			<layout>leveler, meld</layout>
+			<side>front</side>
+			<type>Legendary Creature — Human</type>
+			<maintype>Creature</maintype>
+			<manacost>2G</manacost>
+			<cmc>3</cmc>
+			<colors>G</colors>
+			<coloridentity>G</coloridentity>
+			<pt>2/2</pt>
+			<format-commander>legal</format-commander>
+		  </prop>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/rex.png">U6KL</set>
+		  <tablerow>2</tablerow>
+		</card>
+		<card>
+		  <name>Pyra, Flaming Aegis</name>
+		  <text>Partner with Rex, Journeying to Elysium
+When Pyra attacks, deal 1 damage to target creature the defending player controls. If a creature named Rex is also attacking that player, repeat it, then place an affinity counter on Pyra.
+{W},{T}, remove 3 affinity counters from Pyra: You gain an emblem that has “You may pay {2}: Flip Pyra, Flaming Aegis or Mythra, Aegis Unbound. You may do this only once per turn and only as a sorcery.”
+(Melds with Rex, Journeying to Elysium.)</text>
+		  <prop>
+			<layout>flip, meld</layout>
+			<side>front</side>
+			<type>Legendary Creature — Construct Angel</type>
+			<maintype>Creature</maintype>
+			<manacost>1R</manacost>
+			<cmc>2</cmc>
+			<colors>R</colors>
+			<coloridentity>WR</coloridentity>
+			<pt>2/4</pt>
+			<format-commander>legal</format-commander>
+		  </prop>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/pyr.png">U6KL</set>
+		  <tablerow>2</tablerow>
+		</card>
+		<card>
+		  <name>Mythra, Aegis Unbound</name>
+		  <text>First strike
+At the beginning of your end step, if Mythra and a creature named Rex, Journeying to Elysium you control both attacked the same player this turn, put a level counter on that creature.
+(Melds with Rex, Journeying to Elysium.)</text>
+		  <prop>
+			<layout>flip, meld</layout>
+			<side>back</side>
+			<type>Legendary Creature — Construct Angel</type>
+			<maintype>Creature</maintype>
+			<colors>W</colors>
+			<coloridentity>WR</coloridentity>
+			<pt>4/2</pt>
+			<format-commander>legal</format-commander>
+		  </prop>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/myt.png">U6KL</set>
+		  <reverse-related attach="transform">Pyra, Flaming Aegis</reverse-related>
+		  <related attach="transform">Pyra, Flaming Aegis</related>
+		  <tablerow>2</tablerow>
+		</card>
+		<card>
+		  <name>Rex and Pneuma, Embodiment of Elysium</name>
+		  <text>Haste, double strike
+When Rex and Pneuma enter, attach any number of equipment you control to them.
+When Rex and Pneuma attack, you may cast target equipment artifact from your graveyard. You may attach it to Rex and Pneuma.
+When Rex and Pneuma attack, you may pay {2}. If you do, exile up to one target equipment defending player controls, then return it to the battlefield under your control. You may attach it to Rex and Pneuma. Then deal X damage to each creature defending player controls, where X is equal to the number of equipment attached to Rex and Pneuma.</text>
+		  <prop>
+			<layout>meld</layout>
+			<side>back</side>
+			<type>Legendary Creature — Human God</type>
+			<maintype>Creature</maintype>
+			<cmc>5</cmc>
+			<colors>WRG</colors>
+			<coloridentity>WRG</coloridentity>
+			<pt>5/6</pt>
+			<format-commander>legal</format-commander>
+		  </prop>
+		  <set rarity="rare" picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/pne.png">U6KL</set>
+		  <reverse-related attach="transform">Rex, Journeying to Elysium</reverse-related>
+		  <tablerow>2</tablerow>
+		</card>
 		
 		
 		
@@ -210,6 +299,7 @@ When enchanted creature deals combat damage, create a copy of this token attache
 		  <set picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/tok_fre.png">U6KL</set>
 		  <reverse-related>Gore Magala, Dark Eclipse</reverse-related>
 		  <reverse-related>Shagaru Magala, Bright Eclipse</reverse-related>
+          <token>1</token>
 		  <tablerow>1</tablerow>
 		</card>
 		<card>
@@ -226,7 +316,32 @@ Equip {2}</text>
 		  </prop>
 		  <set picurl="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/tok_wra.png">U6KL</set>
 		  <reverse-related>The Warden</reverse-related>
+          <token>1</token>
 		  <tablerow>1</tablerow>
 		</card>
+        <card>
+            <name>Pyra, Flaming Aegis Emblem</name>
+            <text>You may pay {2}: Flip Pyra, Flaming Aegis or Mythra, Aegis Unbound. You may do this only once per turn and only as a sorcery.</text>
+            <prop>
+                <type>Emblem — Pyra, Flaming Aegis</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/emb_pyr.png">U6KL</set>
+            <reverse-related exclude="exclude">Pyra, Flaming Aegis</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Rex, Journeying to Elysium Emblem</name>
+            <text>At the beginning of your end step, if you both own and control a creature named Rex, Journeying to Elysium and a creature named Pyra, Flaming Aegis or Mythra, Aegis Unbound, exile them, then meld them into Rex and Pneuma, Embodiment of Elysium.</text>
+            <prop>
+                <type>Emblem — Rex, Journeying to Elysium</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL="https://raw.githubusercontent.com/RYGUY722/custom-card-art/refs/heads/main/cards/emb_rex.png">U6KL</set>
+            <reverse-related exclude="exclude">Rex, Journeying to Elysium</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
 	</cards>
 </cockatrice_carddatabase>
