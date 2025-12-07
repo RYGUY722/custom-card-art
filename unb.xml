@@ -77,7 +77,7 @@ Remove thirteen Ego counters from Elysia, Herrscher of Human: Ego: Each player m
 		  <text>Vigilance
 At the start of your end phase, Frieren explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back on top or into your graveyard.)
 If you have full party, target Cleric, Rogue, Warrior, and Wizard each explore instead.
-{T}: The next instant or sorcery spell you cast this turn costs X less to cast where X is Frieren's power.</text>
+{T}: The next instant or sorcery spell you cast this turn costs X less to cast where X is the number of +1/+1 counters on Frieren.</text>
 		  <prop>
 			<layout>normal</layout>
 			<side>front</side>
@@ -116,7 +116,7 @@ When Gore Magala enters the battlefield or attacks, if you control five or more 
 		<card>
 		  <name>Makima, Executive Control</name>
 		  <text>Ward—Sacrifice a creature
-{T}: Put a contract counter on any creature.
+{T}: Put a contract counter on target nontoken creature.
 When a creature with a contract counter dies, its controller draws a card. Then, create a token copy of it under your control.</text>
 		  <prop>
 			<layout>normal</layout>
